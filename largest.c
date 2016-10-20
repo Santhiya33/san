@@ -15,7 +15,7 @@ printf("b is greater");
 if(c>a && c>b){
 printf("c is greater");
 }else{
-printf("two or three number is greater");
+printf("two or three number are  greater");
 }
 getch();
 }
