@@ -13,7 +13,7 @@ if(lowercasevowel||uppercasevowel)
 {
 printf("char is vowel");
 else
-printf("char is lower");
+printf("char is consonant");
 }
 getch();
 }
